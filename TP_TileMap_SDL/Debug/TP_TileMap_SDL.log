@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Le répertoire intermédiaire (Debug\) contient des fichiers partagés provenant d'un autre projet (TP_TileMap_SDL.vcxproj). Cela peut entraîner un comportement de nettoyage et de regénération incorrect.
+  CGame.cpp
+  CTextureManager.cpp
+  main.cpp
+  Génération de code en cours...
+D:\Ludus\Ludus Bachelor\Algo\Tilemap_SDL\TP_TileMap_SDL\CGame.cpp(74): warning C4715: 'CGame::init' : les chemins de contrôle ne retournent pas tous une valeur
+  TP_TileMap_SDL.vcxproj -> D:\Ludus\Ludus Bachelor\Algo\Tilemap_SDL\Debug\Tilemap.exe
